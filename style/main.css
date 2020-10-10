@@ -154,3 +154,23 @@ h4 {
         width: 50%;
     }
 }
+
+
+@media screen and (max-width:320px){
+    header .container{
+    display: flex;
+    flex-direction: column;
+    }
+
+    .button{
+        margin-top: 2px;
+        width: 75px;
+    }
+
+}
+
+@media screen and (min-width:680px){
+    .descricao{
+        width: 50%;
+    }
+}
