@@ -45,7 +45,7 @@ header nav a:hover {
 /*filme principal*/
 .film-principal {
     font-size: 18px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('./img/logo_friends.jpg');
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%),  url('/img/logo_friends.jpg');
     
     height: 400px;
     background-size: cover;
