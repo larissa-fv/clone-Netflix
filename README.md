@@ -1,7 +1,7 @@
 
 # Clone Netflix
 
-![Screenshot](screenshot.png) <!-- Adicione uma captura de tela da sua aplicação aqui -->
+![image](https://github.com/user-attachments/assets/9d12a7db-0b40-495f-9b28-addcbc40d8d6)
 
 ## Descrição
 
@@ -43,9 +43,8 @@ Acesse uma versão ao vivo do projeto [aqui](link_da_demo) (se disponível).
 
 ## Captura de Tela
 
-Adicione uma captura de tela aqui para mostrar a interface do seu projeto.
 
-![Captura de tela](screenshot.png) <!-- Substitua pelo caminho da sua imagem -->
+![image](https://github.com/user-attachments/assets/1eab498d-4b58-4573-9436-df05259c7570)
 
 ## Contribuições
 
